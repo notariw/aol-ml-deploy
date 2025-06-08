@@ -4,3 +4,4 @@ joblib==1.5.1
 numpy==2.0.2
 pandas
 matplotlib
+seaborn
